@@ -22,7 +22,7 @@ header {
   z-index: 5;
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   background: #333;
 }
 
@@ -97,7 +97,7 @@ header a:hover, footer a:hover {
   height: 85%;
   z-index: 3;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   flex-direction: column;
 }
 
