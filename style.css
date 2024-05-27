@@ -32,7 +32,7 @@ header {
   max-width: 1200px;
   width: 100%;
   align-items: right;
-  justify-content: space-between;
+  justify-content: flex-end;
 }
 
 .navbar input#menu-toggler {
